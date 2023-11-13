@@ -1,0 +1,17 @@
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\ConsumindoAlunoAPI\ConsumindoAlunoAPI\bin\Debug\net7.0\ConsumindoAlunoAPI.exe
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\ConsumindoAlunoAPI\ConsumindoAlunoAPI\bin\Debug\net7.0\ConsumindoAlunoAPI.deps.json
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\ConsumindoAlunoAPI\ConsumindoAlunoAPI\bin\Debug\net7.0\ConsumindoAlunoAPI.runtimeconfig.json
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\ConsumindoAlunoAPI\ConsumindoAlunoAPI\bin\Debug\net7.0\ConsumindoAlunoAPI.dll
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\ConsumindoAlunoAPI\ConsumindoAlunoAPI\bin\Debug\net7.0\ConsumindoAlunoAPI.pdb
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\ConsumindoAlunoAPI\ConsumindoAlunoAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\ConsumindoAlunoAPI\ConsumindoAlunoAPI\obj\Debug\net7.0\ConsumindoAlunoAPI.csproj.AssemblyReference.cache
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\ConsumindoAlunoAPI\ConsumindoAlunoAPI\obj\Debug\net7.0\ConsumindoAlunoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\ConsumindoAlunoAPI\ConsumindoAlunoAPI\obj\Debug\net7.0\ConsumindoAlunoAPI.AssemblyInfoInputs.cache
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\ConsumindoAlunoAPI\ConsumindoAlunoAPI\obj\Debug\net7.0\ConsumindoAlunoAPI.AssemblyInfo.cs
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\ConsumindoAlunoAPI\ConsumindoAlunoAPI\obj\Debug\net7.0\ConsumindoAlunoAPI.csproj.CoreCompileInputs.cache
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\ConsumindoAlunoAPI\ConsumindoAlunoAPI\obj\Debug\net7.0\ConsumindoAlunoAPI.csproj.CopyComplete
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\ConsumindoAlunoAPI\ConsumindoAlunoAPI\obj\Debug\net7.0\ConsumindoAlunoAPI.dll
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\ConsumindoAlunoAPI\ConsumindoAlunoAPI\obj\Debug\net7.0\refint\ConsumindoAlunoAPI.dll
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\ConsumindoAlunoAPI\ConsumindoAlunoAPI\obj\Debug\net7.0\ConsumindoAlunoAPI.pdb
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\ConsumindoAlunoAPI\ConsumindoAlunoAPI\obj\Debug\net7.0\ConsumindoAlunoAPI.genruntimeconfig.cache
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\ConsumindoAlunoAPI\ConsumindoAlunoAPI\obj\Debug\net7.0\ref\ConsumindoAlunoAPI.dll
